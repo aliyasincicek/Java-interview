@@ -1,8 +1,8 @@
-package interview;
+package JavaInterviewQuestions;
 
 import java.util.Scanner;
 
-public class PalindromeMetodlu {
+public class Iw06_PalindromeMetodlu {
 
 	public static void main(String[] args) {
 		// Soru 9 ) Interview Question Kullanicidan bir String isteyin. 

@@ -1,8 +1,8 @@
-package interview;
+package JavaInterviewQuestions;
 
 import java.util.Scanner;
 
-public class ForLoop_inter {
+public class Iw03 {
 
 	public static void main(String[] args) {
 		/*

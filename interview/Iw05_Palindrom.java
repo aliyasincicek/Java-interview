@@ -1,8 +1,8 @@
-package interview;
+package JavaInterviewQuestions;
 
 import java.util.Scanner;
 
-public class Palindrom {
+public class Iw05_Palindrom {
 
 	public static void main(String[] args) {
 		 // Kullanicidan bir String isteyin. Kullanicinin girdigi

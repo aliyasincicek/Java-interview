@@ -1,8 +1,8 @@
-package interview;
+package JavaInterviewQuestions;
 
 import java.util.Scanner;
 
-public class ForLoop_ay_inter {
+public class Iw04 {
 
 	public static void main(String[] args) {
 		 // Soru 8 ) Interview Question Kullanicidan bir String isteyin 

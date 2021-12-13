@@ -1,8 +1,8 @@
-package interview;
+package JavaInterviewQuestions;
 
 import java.util.Scanner;
 
-public class ForLoop_ay_inter_tersten {
+public class Iw02_tersten {
 
 	public static void main(String[] args) {
 		// Soru 7 ) Interview Question Kullanicidan bir String isteyin ve Stringi tersten yazdirin. 
