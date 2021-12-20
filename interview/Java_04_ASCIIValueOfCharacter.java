@@ -1,4 +1,4 @@
-package JavaInterviewQuestions;
+package javaInterviewQuestions;
 
 public class Java_04_ASCIIValueOfCharacter {
 
@@ -6,17 +6,14 @@ public class Java_04_ASCIIValueOfCharacter {
 		
 		//Question: Value of ASCII of characters
 		
-		char c = 'a'; //97
+		char x='c';
 		
-		//first way
-		int ascii = c;
+		int a=(int) x;
+		System.out.println(a);
 		
-		//second way
-		int asciiNumber = (int)c;
-		
-		System.out.println(ascii);
-		System.out.println(asciiNumber);
-		
+		//ya da 
+		int asci=x;
+		System.out.println(asci);
 		
 
 	}

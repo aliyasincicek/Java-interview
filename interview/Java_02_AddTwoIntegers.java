@@ -1,4 +1,4 @@
-package JavaInterviewQuestions;
+package javaInterviewQuestions;
 
 public class Java_02_AddTwoIntegers {
 
@@ -6,13 +6,9 @@ public class Java_02_AddTwoIntegers {
 		
 		//Question: Add two integer
 		
-		int a = 10;
-		int b = 20;
-		
-		int sum = a+b;
-		
-		System.out.println("Sum of a and b is: "+ sum);
-
+		int a=12;
+		int b=56;
+		System.out.println(a+b);
 	}
 
 }
