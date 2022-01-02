@@ -1,8 +1,8 @@
-package javaInterviewQuestions;
+package javaInterviewQuestions2;
 
 import java.util.Scanner;
 
-public class QSlck02 {
+public class Qs02 {
 
 	public static void main(String[] args) {
 		/*Check if the integer is an Armstrong numbers
